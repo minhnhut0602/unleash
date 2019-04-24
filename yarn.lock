@@ -4731,10 +4731,10 @@ prom-client@^11.2.1:
   dependencies:
     tdigest "^0.1.1"
 
-prometheus-gc-stats@^0.6.1:
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/prometheus-gc-stats/-/prometheus-gc-stats-0.6.1.tgz#24d244ac1d292caae12c54f8a7e7c547e443397d"
-  integrity sha512-DUo/cDs+1XcVuqoFU6+DjmWjkjIRIVeswtZAIfslIPrYfli2NK0/g/BPoO/kqOgLvzbKRx4m9+MDeNsNIIJGkg==
+prometheus-gc-stats@^0.6.2:
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/prometheus-gc-stats/-/prometheus-gc-stats-0.6.2.tgz#6ccae3a5ad74063d429849ec65febdcc95a7df52"
+  integrity sha512-ABSVHkAuYrMLj1WHmlLfS0hu9Vc2ELKuecwiMWPNQom+ZNiAdcILTn5yGK7sZg2ttoWc2u++W5NjdJ3IjdYJZw==
   dependencies:
     optional "^0.1.3"
   optionalDependencies:
